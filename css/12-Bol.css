@@ -93,7 +93,7 @@
 }
 
 .col-offset-6{
-    margin-left: calc((100% / 12) * 9);
+    margin-left: calc((100% / 12) * 6);
 }
 
 .col-offset-7{

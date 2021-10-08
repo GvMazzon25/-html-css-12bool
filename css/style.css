@@ -1,0 +1,32 @@
+.container{
+    margin-bottom: 10px;
+}
+
+.col-blu [class*="col-"]{
+    background-color: rgba(0, 108, 250, 1);
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+    text-align: center;
+    line-height: 50px;
+    color: white;
+}
+
+.height-50{
+    height: 50px;
+}
+
+.height-30{
+    height: 30px;
+}
+
+.col-green [class*="col-"]{
+    background-color: rgba(0, 225, 101, 1);
+    border-style: solid;
+    border-color: rgba(0, 108, 250, 1);
+    border-width: 1px;
+}
+
+.pd-10px{
+    padding: 10px ;
+}
