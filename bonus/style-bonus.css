@@ -1,5 +1,11 @@
+.container{
+    width: 600px;
+    height: 600px;
+    margin: 100px auto 100px;
+}
+
 .height{
-    height: 13vh;
+    height: 50px;
     border-color: white;
     border-width: 1px;
     border-style: solid;
