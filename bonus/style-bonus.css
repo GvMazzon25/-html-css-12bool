@@ -1,0 +1,19 @@
+.height{
+    height: 13vh;
+    border-color: white;
+    border-width: 1px;
+    border-style: solid;
+    background-color: red;
+}
+
+body .row{
+    flex-wrap: nowrap;
+}
+
+.black{
+    background-color: #000;
+}
+
+.color-1{
+    
+}
