@@ -3,7 +3,6 @@
     border-color: white;
     border-width: 1px;
     border-style: solid;
-    background-color: red;
 }
 
 body .row{
@@ -15,5 +14,16 @@ body .row{
 }
 
 .color-1{
-    
+    background-color: rgb(51,127,36);
 }
+
+.color-2{
+    background-color: rgb(74,152,64);
+}
+
+.color-3{
+    background-color: rgb(92,197,42);
+}
+
+
+
